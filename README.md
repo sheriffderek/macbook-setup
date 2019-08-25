@@ -57,3 +57,9 @@ I'm going to go over all of the Mac setup for a course... just keeping notes.
 * note the desktop position of icons... how they grid up etc... by default / not in a grid etc. "snap to grid"
 
 * ...
+
+* when talking about the finder UI / note the list vs grid etc... / 
+
+* ...
+
+* ...

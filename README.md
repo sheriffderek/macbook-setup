@@ -50,4 +50,10 @@ I'm going to go over all of the Mac setup for a course... just keeping notes.
 
   * "**Help**" - you can search for stuff
 
-* 
+* ...
+
+* ...
+
+* note the desktop position of icons... how they grid up etc... by default / not in a grid etc. "snap to grid"
+
+* ...
